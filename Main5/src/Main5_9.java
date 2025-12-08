@@ -1,6 +1,6 @@
 
 public class Main5_9 {
-
+    
 	public static int sample() {
 
 		return 1;
