@@ -1,5 +1,3 @@
-import calcapp.logics.Calclogic;
-
 public class Main6_7 {
 	public class Calc {
 		public static void main(String[] args) {
@@ -12,4 +10,5 @@ public class Main6_7 {
 
 	}
 
+	
 }

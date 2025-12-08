@@ -9,5 +9,6 @@ public class Main6_4 {
 		System.out.println("足すと" + total + "、引くと" + delta);
 
 	}
-
+	
+	
 }

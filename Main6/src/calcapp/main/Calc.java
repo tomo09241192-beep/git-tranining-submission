@@ -8,6 +8,7 @@ public class Calc {
 		int delta = calcapp.logics.Calclogic.hiku(a, b);
 		System.out.println("足すと" + total + "、引くと" + delta);
 	}
+	
 	/*
 		public static int tasu(int a, int b) {
 			return (a + b);

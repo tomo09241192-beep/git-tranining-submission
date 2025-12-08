@@ -10,4 +10,5 @@ public class Main6_10 {
 
 	}
 
+	
 }
