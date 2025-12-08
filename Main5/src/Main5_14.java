@@ -13,6 +13,7 @@ public class Main5_14 {
 				System.out.println(i);
 			}
 
+			
 	}
 
 }
