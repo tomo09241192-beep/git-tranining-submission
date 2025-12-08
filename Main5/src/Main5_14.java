@@ -12,8 +12,6 @@ public class Main5_14 {
 			for (int i :array) {
 				System.out.println(i);
 			}
-
-			
 	}
 
 }

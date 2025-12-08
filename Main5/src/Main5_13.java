@@ -13,7 +13,6 @@ public class Main5_13 {
 			for (int i : array) {
 				System.out.println(i);
 			}
-			
 	}
 
 }
